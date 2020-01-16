@@ -1,0 +1,91 @@
+.nav {
+    display: flex;
+    background-color: #222222;
+}
+.ulnav {
+    list-style: none;
+    display: flex;
+    margin-left: 30px;
+    margin-top: 77px;
+    font-size: 15px;
+}
+.logo {
+    margin-left: 160px;
+    margin-top: 55px;
+}
+.linav {
+    margin-left: 30px;
+    color: #ffffff;
+}
+.phone {
+    margin-left: 750px;
+    margin-top: 77px;
+}
+.mail {
+    margin-top: 77px;
+    margin-left: 20px;
+}
+.title {
+    display: flex;
+    background-color: #222222;
+}
+.heading {
+    width: 260px;
+    margin-left: 320px;
+    margin-top: 90px;
+    color: white;
+}
+button {
+    width: 240px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: #feca30;
+    margin-top: 50px;
+}
+.arrow {
+    margin-left: 60px;
+}
+.imgmoon {
+    margin-left: 300px;
+    margin-top: 25px;
+    margin-bottom: 125px;
+}
+h1 {
+    font-size: 45px;
+    margin-bottom: 50px;
+}
+.txt {
+    font-size: 15px;
+}
+.navi {
+    display: flex;
+    justify-content: space-around;
+    background-color: #222222;
+    color: white;
+}
+.icon {
+    width: 180px;
+    height: 160px;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.main {
+    display: flex;
+    justify-content: space-around;
+    font-size: 17px;
+}
+.main1, .main2 {
+    width: 440px;
+    height: 650px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    
+}
+ul {
+    padding: 0px;
+    margin-left: 15px;
+}
+
+
+
+
